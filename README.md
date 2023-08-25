@@ -1,1 +1,2 @@
 # odin-recipes
+This is our attempt at the first project in the Odin-Project.The goal is to solidify our understanding of git and basic html. We do this by creating a basic html website layout based around recipes, and practicing git commits and commit messaging.
